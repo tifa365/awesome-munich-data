@@ -54,7 +54,7 @@ Resources to be added.
 
 ## Maps & Visualizations
 
-- 🛣️ [Muenchner_Strassen](https://github.com/soerenetler/Muenchner_Strassen) - Original Munich street-name exploration and storytelling project with notebooks, processed geodata, and a static scrollytelling app; this description is inferred from the repository structure because the upstream README is currently empty.
+- 🛣️ [Muenchner_Strassen](https://soerenetler.github.io/Muenchner_Strassen/) - Map-based scrollytelling project about Munich street names and their social and historical context, built from the city's street-network and address datasets with Python notebooks, QGIS, and Mapbox.
 - 🕰️ [muenchen.rewind](https://github.com/tifa365/muenchen.rewind) - Interactive aerial-imagery time slider for Munich comparing historical orthophotos from 2003 to 2024 with side-by-side view and address search.
 
 ------------------------------
