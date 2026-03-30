@@ -63,6 +63,7 @@ Resources to be added.
 
 - 🗂️ [Open Data Portal München](https://opendata.muenchen.de/en/) - Official city portal providing 331 datasets across transport, government, education, and other categories, plus showcases and starter-code links.
 - 🌱 [datengartln München](https://datengartln.de/) - Community-built Munich open data explorer with 266 datasets, notebook-based stories, challenge entries, and curated category pages built around the city's open data ecosystem.
+- 🚀 [startercode-opendata-munich](https://github.com/it-at-m/startercode-opendata-munich) - Automatically generated Python and R starter notebooks for Munich open data portal datasets, prefilled with metadata, download links, and analysis boilerplate.
 
 ------------------------------
 
