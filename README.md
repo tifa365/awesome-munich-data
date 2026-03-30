@@ -54,7 +54,7 @@ Resources to be added.
 
 ## Maps & Visualizations
 
-Resources to be added.
+- 🕰️ [muenchen.rewind](https://github.com/tifa365/muenchen.rewind) - Interactive aerial-imagery time slider for Munich comparing historical orthophotos from 2003 to 2024 with side-by-side view and address search.
 
 ------------------------------
 
