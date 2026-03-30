@@ -60,13 +60,13 @@ Resources to be added.
 
 ## Open Data Tools & APIs
 
-Resources to be added.
+- 🗂️ [Open Data Portal München](https://opendata.muenchen.de/en/) - Official city portal providing 331 datasets across transport, government, education, and other categories, plus showcases and starter-code links.
 
 ------------------------------
 
 ## Transportation & Mobility
 
-Resources to be added.
+- 🚇 [MVV OpenData](https://www.mvv-muenchen.de/fahrplanauskunft/fuer-entwickler/opendata/index.html) - Official developer page with Munich transit GTFS feeds and CSV downloads for stops, lines, and tariff zones under CC BY licensing.
 
 ------------------------------
 
