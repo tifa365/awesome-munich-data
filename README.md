@@ -69,6 +69,7 @@ Resources to be added.
 
 ## Transportation & Mobility
 
+- 🚲 [Munich Bike Data Info Graphic](https://somtom.github.io/post/munich-bike-data-info-graphic/) - Long-form analysis and infographic of Munich bicycle counting-station data, combining open data API access, station maps, traffic patterns, and commuting insights.
 - 🚇 [MVV OpenData](https://www.mvv-muenchen.de/fahrplanauskunft/fuer-entwickler/opendata/index.html) - Official developer page with Munich transit GTFS feeds and CSV downloads for stops, lines, and tariff zones under CC BY licensing.
 
 ------------------------------
