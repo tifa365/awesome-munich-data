@@ -24,7 +24,7 @@ Have something to add or change? Open a pull request or issue.
 
 ## Art & Street Culture
 
-Resources to be added.
+- 🎧 [memory-loops-munich](https://github.com/tifa365/memory-loops-munich) - Extractor and downloader for Michaela Melián's Memory Loops audio memorial, turning the site catalogue into JSON with 465 geolocated recordings on sites of Nazi persecution in Munich plus six hour-long radio plays.
 
 ------------------------------
 
@@ -92,4 +92,4 @@ Contributions are welcome. Please read the [contribution guidelines](CONTRIBUTIN
 
 This list aims to be a practical starting point for anyone interested in Munich's open data ecosystem. Listing of a project or resource does not imply endorsement.
 
-Last updated: 2026-03-30
+Last updated: 2026-08-02
