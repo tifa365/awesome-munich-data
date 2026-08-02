@@ -80,6 +80,12 @@ Resources to be added.
 
 ------------------------------
 
+## Related Lists
+
+- 🐻 [awesome-berlin-data](https://github.com/tifa365/awesome-berlin-data) - Sister list following the same structure, collecting open data sources, APIs, tools, and applications for Berlin.
+
+------------------------------
+
 ## License
 
 This project can be released under CC0, matching the structure of the Berlin list, if you want the resulting list to be freely reusable.
