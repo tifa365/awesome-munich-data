@@ -76,7 +76,7 @@ Resources to be added.
 
 ## Urban Planning & Land Use
 
-Resources to be added.
+- 🏛️ [denkmalliste-bayern](https://github.com/tifa365/denkmalliste-bayern) - Extractor for the official Bavarian monument list covering roughly 198,000 listed buildings, archaeological monuments, and ensembles statewide including Munich, with a verified OpenAPI specification for the otherwise undocumented BLfD Denkmalservice and export to GeoJSON, CSV, and JSONL.
 
 ------------------------------
 
