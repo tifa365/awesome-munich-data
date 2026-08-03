@@ -42,7 +42,7 @@ Resources to be added.
 
 ## Government & Politics
 
-Resources to be added.
+- 📑 [München Transparent](https://www.muenchen-transparent.de/) - Independent, open-source council information system for the Munich city council and all 25 district committees, offering full-text search, meeting calendars, notification subscriptions, and map-based location references for documents. Exposes an [OParl 1.0 API](https://www.muenchen-transparent.de/oparl/v1.0) covering legislative terms back to 1996, with [vendor-specific extensions](https://github.com/codeformunich/muenchen-transparent/blob/master/docs/oparl.md#herstellerspezifische-erweiterungen) adding biographical and social-media fields to `Person` and raw RIS document names to `File`.
 
 ------------------------------
 
@@ -98,4 +98,4 @@ Contributions are welcome. Please read the [contribution guidelines](CONTRIBUTIN
 
 This list aims to be a practical starting point for anyone interested in Munich's open data ecosystem. Listing of a project or resource does not imply endorsement.
 
-Last updated: 2026-08-02
+Last updated: 2026-08-03
