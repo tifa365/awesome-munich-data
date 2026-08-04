@@ -56,6 +56,7 @@ Resources to be added.
 
 - 🛣️ [Muenchner_Strassen](https://soerenetler.github.io/Muenchner_Strassen/) - Map-based scrollytelling project about Munich street names and their social and historical context, built from the city's street-network and address datasets with Python notebooks, QGIS, and Mapbox.
 - 🕰️ [muenchen.rewind](https://github.com/tifa365/muenchen.rewind) - Interactive aerial-imagery time slider for Munich comparing historical orthophotos from 2003 to 2024 with side-by-side view and address search.
+- ⛲️ [Family-friendly Munich](https://benjaminaaron.github.io/open-bydata-lod-usecase-family-spots/) - Playgrounds for young children with public toilets, cafés and drinking fountains nearby. Fork of a [LOD use-case](https://github.com/byte-bayern/open-bydata-lod-usecase-family-spots) by @byte-bayern. Toilets and playgrounds are from Open Data Munich, the Cafés are from OpenStreetMap.
 
 ------------------------------
 
