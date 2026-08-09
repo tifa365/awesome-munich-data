@@ -64,6 +64,7 @@ Resources to be added.
 - 🗂️ [Open Data Portal München](https://opendata.muenchen.de/en/) - Official city portal providing 331 datasets across transport, government, education, and other categories, plus showcases and starter-code links.
 - 🌱 [datengartln München](https://datengartln.de/) - Community-built Munich open data explorer with 266 datasets, notebook-based stories, challenge entries, and curated category pages built around the city's open data ecosystem.
 - 🚀 [startercode-opendata-munich](https://github.com/it-at-m/startercode-opendata-munich) - Automatically generated Python and R starter notebooks for Munich open data portal datasets, prefilled with metadata, download links, and analysis boilerplate.
+- 💼 [jobportal-muenchen](https://github.com/tifa365/jobportal-muenchen) - Verified OpenAPI specification for the undocumented SAP SuccessFactors search API behind the Landeshauptstadt München careers portal, listing every open position at the city administration, with a dependency-free Python client and a property-based validation report documenting the endpoint's error codes, pagination limits, and crash conditions.
 
 ------------------------------
 
@@ -98,4 +99,4 @@ Contributions are welcome. Please read the [contribution guidelines](CONTRIBUTIN
 
 This list aims to be a practical starting point for anyone interested in Munich's open data ecosystem. Listing of a project or resource does not imply endorsement.
 
-Last updated: 2026-08-03
+Last updated: 2026-08-09
