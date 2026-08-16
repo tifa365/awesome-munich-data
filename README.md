@@ -30,7 +30,7 @@ Have something to add or change? Open a pull request or issue.
 
 ## Education & Schools
 
-Resources to be added.
+- 📚 [openbibmuc.de]([url](https://openbibmuc.de)) - An overview of all branches of the Munich Public Library. Each library has its own fact sheet. Also includes an overview of recent new acquisitions and updates to the media collection.
 
 ------------------------------
 
@@ -43,6 +43,7 @@ Resources to be added.
 ## Government & Politics
 
 - 📑 [München Transparent](https://www.muenchen-transparent.de/) - Independent, open-source council information system for the Munich city council and all 25 district committees, offering full-text search, meeting calendars, notification subscriptions, and map-based location references for documents. Exposes a [documented](https://www.muenchen-transparent.de/infos/api) [OParl 1.0 API](https://www.muenchen-transparent.de/oparl/v1.0) covering legislative terms back to 1996, with [vendor-specific extensions](https://github.com/codeformunich/muenchen-transparent/blob/master/docs/oparl.md#herstellerspezifische-erweiterungen) under the `muenchen-transparent:` prefix adding biographical and social-media fields to `Person` and raw RIS document names to `File`.
+- 📜 [RathausMuc]([url](https://rathausmuc.de/)) - An overview of the Munich City Council and the 25 district committees. The focus is primarily on people: memberships in parliamentary groups and committees, election results, profiles, and social media accounts. In addition, there are short fact sheets with statistical data for each district and for the city as a whole.
 
 ------------------------------
 
@@ -72,6 +73,7 @@ Resources to be added.
 
 - 🚲 [Munich Bike Data Info Graphic](https://somtom.github.io/post/munich-bike-data-info-graphic/) - Long-form analysis and infographic of Munich bicycle counting-station data, combining open data API access, station maps, traffic patterns, and commuting insights.
 - 🚇 [MVV OpenData](https://www.mvv-muenchen.de/fahrplanauskunft/fuer-entwickler/opendata/index.html) - Official developer page with Munich transit GTFS feeds and CSV downloads for stops, lines, and tariff zones under CC BY licensing.
+- 🅿️ [data.parkraumwende.de]([url](https://data.parkraumwende.de)) - Data section of the "[Parkraumwende]([url](https://parkraumwende.de))" (parking space transition) initiative. It consists of several sub-sections: an open map of all parking garages, underground car parks, and parking spaces in Munich, which is continuously expanded through crowdsourcing. A map of parking garages in the city center and their current occupancy. And an overview of public parking areas along with a section on mobility statistics from Munich.
 
 ------------------------------
 
