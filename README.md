@@ -89,7 +89,9 @@ Resources to be added.
 
 ## License
 
-This project can be released under CC0, matching the structure of the Berlin list, if you want the resulting list to be freely reusable.
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, the contributors to this list have waived all copyright and related or neighboring rights to this work. See [LICENSE](LICENSE) for the full CC0 1.0 Universal dedication.
 
 ## Contributing
 
