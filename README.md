@@ -24,6 +24,7 @@ Have something to add or change? Open a pull request or issue.
 
 ## Art & Street Culture
 
+- 🎨 [kunst-am-bau-muenchen](https://github.com/tifa365/kunst-am-bau-muenchen) - Extractor for QUIVID, the City of Munich's art-in-architecture programme, documenting two undocumented WordPress REST endpoints and exporting 323 geolocated artworks from 1973 to 2022 by 290 artists as JSON and GeoJSON, with materials, descriptions, districts, and public accessibility. Run locally; the source data is licensed for private, non-commercial use only and is not redistributed.
 - 🎧 [memory-loops-munich](https://github.com/tifa365/memory-loops-munich) - Extractor and downloader for Michaela Melián's Memory Loops audio memorial, turning the site catalogue into JSON with 465 geolocated recordings on sites of Nazi persecution in Munich plus six hour-long radio plays.
 
 ------------------------------
