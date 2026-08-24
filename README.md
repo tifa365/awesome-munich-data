@@ -69,6 +69,7 @@ Resources to be added.
 - 🚀 [startercode-opendata-munich](https://github.com/it-at-m/startercode-opendata-munich) - Automatically generated Python and R starter notebooks for Munich open data portal datasets, prefilled with metadata, download links, and analysis boilerplate.
 - 💼 [jobportal-muenchen](https://github.com/tifa365/jobportal-muenchen) - Verified OpenAPI specification for the undocumented SAP SuccessFactors search API behind the Landeshauptstadt München careers portal, listing every open position at the city administration, with a dependency-free Python client and a property-based validation report documenting the endpoint's error codes, pagination limits, and crash conditions.
 - 🔌 [InfraNode](https://infranode.dev/) - Keyless REST API bundling open data for 84 German cities including Munich, with 117 endpoints across weather, transport, energy, demographics, and public facilities normalized into one response envelope that names the source and licence of each record. Also available as an [MCP server](https://infranode.dev/mcp/); source code Apache-2.0.
+- 📈 [Munich in Numbers](https://www.munich-in-numbers.com/) - German-language dashboard that turns official Munich statistics into readable charts: 116 datasets on population, safety, mobility, economy and tourism, and weather, plus an indicator atlas of district-level figures, a trend radar, and short data stories. Every dataset links back to its source.
 
 ------------------------------
 
