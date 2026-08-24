@@ -107,4 +107,4 @@ Contributions are welcome. Please read the [contribution guidelines](CONTRIBUTIN
 
 This list aims to be a practical starting point for anyone interested in Munich's open data ecosystem. Listing of a project or resource does not imply endorsement.
 
-Last updated: 2026-08-20
+Last updated: 2026-08-24
