@@ -57,6 +57,7 @@ Resources to be added.
 
 ## Maps & Visualizations
 
+- 🏷️ [EqualStreetNames München](https://munich.equalstreetnames.eu/de/index.html#10.86/48.155/11.5418) - Interaktive Karte zu Münchner Straßennamen und ihrem Geschlechterbezug; [Open-Source-Projekt](https://github.com/EqualStreetNames/equalstreetnames/).
 - 🛣️ [Muenchner_Strassen](https://soerenetler.github.io/Muenchner_Strassen/) - Map-based scrollytelling project about Munich street names and their social and historical context, built from the city's street-network and address datasets with Python notebooks, QGIS, and Mapbox.
 - 🕰️ [muenchen.rewind](https://github.com/tifa365/muenchen.rewind) - Interactive aerial-imagery time slider for Munich comparing historical orthophotos from 2003 to 2024 with side-by-side view and address search.
 - ⛲️ [Family-friendly Munich](https://benjaminaaron.github.io/open-bydata-lod-usecase-family-spots/) - Playgrounds for young children with public toilets, cafés and drinking fountains nearby. Fork of a [LOD use-case](https://github.com/byte-bayern/open-bydata-lod-usecase-family-spots) by @byte-bayern. Toilets and playgrounds are from Open Data Munich, the Cafés are from OpenStreetMap.
@@ -109,4 +110,4 @@ Contributions are welcome. Please read the [contribution guidelines](CONTRIBUTIN
 
 This list aims to be a practical starting point for anyone interested in Munich's open data ecosystem. Listing of a project or resource does not imply endorsement.
 
-Last updated: 2026-09-11
+Last updated: 2026-09-20
