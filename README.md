@@ -38,7 +38,7 @@ Have something to add or change? Open a pull request or issue.
 
 ## Environment & Nature
 
-- 🏊 [München badet](https://muenchenbadet.de/) - Private dashboard and map combining Isar water temperature, level, and flood alert stages from the Bavarian environment agency with live occupancy of 15 SWM pools and 8 hand-picked Isar bathing spots, publishing its own tables as CC BY 4.0 CSV and GeoJSON while the pool occupancy is scraped from swm.de without an open licence.
+- 🏊 [München badet](https://muenchenbadet.de/daten.html) - Dashboard and map combining Isar water temperature, level, and flood alert stages from the Bavarian environment agency with live occupancy of 15 SWM pools and 8 Isar bathing spots; own tables published as CC BY 4.0 CSV and GeoJSON, pool occupancy scraped from swm.de without an open licence.
 
 ------------------------------
 
