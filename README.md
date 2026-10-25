@@ -85,6 +85,7 @@ Resources to be added.
 - 🅿️ [mvv-park-and-ride-api](https://github.com/tifa365/mvv-park-and-ride-api) - OpenAPI specification for the MVV Park-and-Ride endpoint listing all 363 facilities with location, static capacity, and tariff, but no live occupancy.
 - 🅿️ [data.parkraumwende.de](https://data.parkraumwende.de) - Data section of the [Parkraumwende](https://parkraumwende.de) initiative with a crowdsourced map of Munich parking garages and spaces, live city-centre garage occupancy, and mobility statistics.
 - 🚆 [verspaetung.net – München Hbf](https://verspaetung.net/bahnhoefe/8000261-muenchen-hbf) - Unofficial live board of München Hbf delays and cancellations for the next 60 minutes, backed by a [documented open-data API](https://data.verspaetung.net/opendata/swagger/) with 15-minute snapshots since February 2026.
+- ✈️ [munich-airport-flightsearch-api](https://github.com/tifa365/munich-airport-flightsearch-api) - Unofficial, live-verified OpenAPI specification of the AJAX endpoints behind the Munich Airport (MUC) flight search, covering arrival and departure boards, airport and airline autocomplete, and flight tracking, with parsing notes for the HTML fragments.
 
 ------------------------------
 
