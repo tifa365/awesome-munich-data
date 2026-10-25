@@ -32,6 +32,7 @@ Have something to add or change? Open a pull request or issue.
 ## Education & Schools
 
 - 📚 [openbibmuc.de](https://openbibmuc.de) - Overview of all Munich Public Library branches with a fact sheet per library and a list of recent media acquisitions.
+- 🧸 [kitafinder-api-muenchen](https://github.com/tifa365/kitafinder-api-muenchen) - Unofficial OpenAPI 3.1 specification for the JSON API behind the city's [kita finder+](https://kitafinder.muenchen.de/elternportal/de/) parent portal, listing all 1,845 childcare facilities with availability status without login.
 
 ------------------------------
 
