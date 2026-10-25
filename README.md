@@ -77,6 +77,7 @@ Resources to be added.
 - 📈 [Munich in Numbers](https://www.munich-in-numbers.com/) - German-language dashboard turning 116 official Munich statistics datasets into charts, with a district-level indicator atlas and short data stories.
 - 📊 [Datenraum München](https://tifa365.github.io/datenraum-muenchen/) - Unofficial prototype of a Munich urban data hub modeled after Augsburg's [Datenraum](https://smartes.augsburg.de) on the AGPL-3.0 CIVORA UI, with partly frozen data; [source repository](https://github.com/tifa365/datenraum-muenchen).
 - 📋 [open-data-monitor-muenchen](https://github.com/tifa365/open-data-monitor-muenchen) - Independent audit of the 96 datasets the city administration identified in 2022, rating their open availability as of October 2026 (59 open, 16 partial, 13 public with unclear licence, 8 not found) and publishing the results as CC0 CSV with source links.
+- 🏊 [baederauslastung-api-muenchen](https://github.com/tifa365/baederauslastung-api-muenchen) - Unofficial, live-verified OpenAPI 3.1 specification of the keyless JSON endpoint behind the SWM pool occupancy page, documenting all 28 known area IDs, the cache-snapshot quirk without a query string, and CORS and error behaviour.
 
 ------------------------------
 
