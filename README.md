@@ -47,6 +47,7 @@ Resources to be added.
 - 📑 [München Transparent](https://www.muenchen-transparent.de/) - Open-source council information system for the city council and all 25 district committees, with full-text search and a [documented](https://www.muenchen-transparent.de/infos/api) [OParl 1.0 API](https://www.muenchen-transparent.de/oparl/v1.0) covering terms back to 1996.
 - 📜 [RathausMuc](https://rathausmuc.de/) - Overview of the Munich City Council and 25 district committees focused on people, with group and committee memberships, election results, profiles, and social media accounts.
 - 🗳️ [München-O-Mat](https://muenchen-o-mat.de/) - [Open-source](https://github.com/olischne/muenchen_o_mat) voting advice app for the 8 March 2026 municipal election, covering 35 theses answered by 14 parties and voter groups, with the data served as CSV.
+- 💰 [Münchner Haushaltsdaten](https://tifa365.github.io/haushaltsdaten-muenchen/) - [Open-source](https://github.com/tifa365/haushaltsdaten-muenchen) interactive treemap of Munich's 2026 budget expenses by policy area, product, and cost type, parsed from the city's 1,750-page budget PDF.
 
 ------------------------------
 
