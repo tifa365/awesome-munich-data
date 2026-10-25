@@ -24,14 +24,14 @@ Have something to add or change? Open a pull request or issue.
 
 ## Art & Street Culture
 
-- 🎨 [kunst-am-bau-muenchen](https://github.com/tifa365/kunst-am-bau-muenchen) - Extractor for QUIVID, the City of Munich's art-in-architecture programme, documenting two undocumented WordPress REST endpoints and exporting 323 geolocated artworks from 1973 to 2022 by 290 artists as JSON and GeoJSON, with materials, descriptions, districts, and public accessibility. Run locally; the source data is licensed for private, non-commercial use only and is not redistributed.
-- 🎧 [memory-loops-munich](https://github.com/tifa365/memory-loops-munich) - Extractor and downloader for Michaela Melián's Memory Loops audio memorial, turning the site catalogue into JSON with 465 geolocated recordings on sites of Nazi persecution in Munich plus six hour-long radio plays.
+- 🎨 [kunst-am-bau-muenchen](https://github.com/tifa365/kunst-am-bau-muenchen) - Exports 323 geolocated artworks (1973–2022) from the city's QUIVID art-in-architecture programme as JSON and GeoJSON, run locally because the source data is non-commercial.
+- 🎧 [memory-loops-munich](https://github.com/tifa365/memory-loops-munich) - Exports 465 geolocated recordings from Michaela Melián's Memory Loops audio memorial on Nazi persecution in Munich as JSON.
 
 ------------------------------
 
 ## Education & Schools
 
-- 📚 [openbibmuc.de](https://openbibmuc.de) - An overview of all branches of the Munich Public Library. Each library has its own fact sheet. Also includes an overview of recent new acquisitions and updates to the media collection.
+- 📚 [openbibmuc.de](https://openbibmuc.de) - Overview of all Munich Public Library branches with a fact sheet per library and a list of recent media acquisitions.
 
 ------------------------------
 
@@ -43,9 +43,9 @@ Resources to be added.
 
 ## Government & Politics
 
-- 📑 [München Transparent](https://www.muenchen-transparent.de/) - Independent, open-source council information system for the Munich city council and all 25 district committees, offering full-text search, meeting calendars, notification subscriptions, and map-based location references for documents. Exposes a [documented](https://www.muenchen-transparent.de/infos/api) [OParl 1.0 API](https://www.muenchen-transparent.de/oparl/v1.0) covering legislative terms back to 1996, with [vendor-specific extensions](https://github.com/codeformunich/muenchen-transparent/blob/master/docs/oparl.md#herstellerspezifische-erweiterungen) under the `muenchen-transparent:` prefix adding biographical and social-media fields to `Person` and raw RIS document names to `File`.
-- 📜 [RathausMuc](https://rathausmuc.de/) - An overview of the Munich City Council and the 25 district committees. The focus is primarily on people: memberships in parliamentary groups and committees, election results, profiles, and social media accounts. In addition, there are short fact sheets with statistical data for each district and for the city as a whole.
-- 🗳️ [München-O-Mat](https://muenchen-o-mat.de/) - Voting advice application for the Munich municipal election on 8 March 2026, built by a volunteer team of young people under the auspices of the BDKJ in der Region München e.V. Covers 35 theses, each with the position (agree/neutral/disagree) and a written justification from 14 participating parties and voter groups, plus a Leichte Sprache version and a PDF thesis book. The Flutter web app is [open source under GPL-3.0](https://github.com/olischne/muenchen_o_mat), and the live theses, party answers, and party annotations are served as semicolon-separated CSV under `https://muenchen-o-mat.de/app/data/` — the repository itself ships only placeholder data files.
+- 📑 [München Transparent](https://www.muenchen-transparent.de/) - Open-source council information system for the city council and all 25 district committees, with full-text search and a [documented](https://www.muenchen-transparent.de/infos/api) [OParl 1.0 API](https://www.muenchen-transparent.de/oparl/v1.0) covering terms back to 1996.
+- 📜 [RathausMuc](https://rathausmuc.de/) - Overview of the Munich City Council and 25 district committees focused on people, with group and committee memberships, election results, profiles, and social media accounts.
+- 🗳️ [München-O-Mat](https://muenchen-o-mat.de/) - [Open-source](https://github.com/olischne/muenchen_o_mat) voting advice app for the 8 March 2026 municipal election, covering 35 theses answered by 14 parties and voter groups, with the data served as CSV.
 
 ------------------------------
 
@@ -57,36 +57,37 @@ Resources to be added.
 
 ## Maps & Visualizations
 
-- 🏷️ [EqualStreetNames München](https://munich.equalstreetnames.eu/de/index.html#10.86/48.155/11.5418) - Interaktive Karte zu Münchner Straßennamen und ihrem Geschlechterbezug; [Open-Source-Projekt](https://github.com/EqualStreetNames/equalstreetnames/).
-- 🛣️ [Muenchner_Strassen](https://soerenetler.github.io/Muenchner_Strassen/) - Map-based scrollytelling project about Munich street names and their social and historical context, built from the city's street-network and address datasets with Python notebooks, QGIS, and Mapbox.
-- 🕰️ [muenchen.rewind](https://github.com/tifa365/muenchen.rewind) - Interactive aerial-imagery time slider for Munich comparing historical orthophotos from 2003 to 2024 with side-by-side view and address search.
-- ⛲️ [Family-friendly Munich](https://benjaminaaron.github.io/open-bydata-lod-usecase-family-spots/) - Playgrounds for young children with public toilets, cafés and drinking fountains nearby. Fork of a [LOD use-case](https://github.com/byte-bayern/open-bydata-lod-usecase-family-spots) by @byte-bayern. Toilets and playgrounds are from Open Data Munich, the Cafés are from OpenStreetMap.
+- 🏷️ [EqualStreetNames München](https://munich.equalstreetnames.eu/de/index.html#10.86/48.155/11.5418) - Interactive map of Munich street names and the gender of their namesakes, built on an [open-source project](https://github.com/EqualStreetNames/equalstreetnames/).
+- 🛣️ [Muenchner_Strassen](https://soerenetler.github.io/Muenchner_Strassen/) - Map-based scrollytelling about Munich street names and their social and historical context, built from city street and address data with Python, QGIS, and Mapbox.
+- 🕰️ [muenchen.rewind](https://github.com/tifa365/muenchen.rewind) - Interactive time slider comparing Munich aerial orthophotos from 2003 to 2024 side by side, with address search.
+- ⛲️ [Family-friendly Munich](https://benjaminaaron.github.io/open-bydata-lod-usecase-family-spots/) - Map of playgrounds for young children with nearby public toilets, cafés, and drinking fountains, built from Open Data Munich and OpenStreetMap as a fork of a [LOD use case](https://github.com/byte-bayern/open-bydata-lod-usecase-family-spots).
 
 ------------------------------
 
 ## Open Data Tools & APIs
 
-- 🗂️ [Open Data Portal München](https://opendata.muenchen.de/en/) - Official city portal providing 331 datasets across transport, government, education, and other categories, plus showcases and starter-code links.
-- 🌱 [datengartln München](https://datengartln.de/) - Community-built Munich open data explorer with 266 datasets, notebook-based stories, challenge entries, and curated category pages built around the city's open data ecosystem.
-- 🚀 [startercode-opendata-munich](https://github.com/it-at-m/startercode-opendata-munich) - Automatically generated Python and R starter notebooks for Munich open data portal datasets, prefilled with metadata, download links, and analysis boilerplate.
-- 💼 [jobportal-muenchen](https://github.com/tifa365/jobportal-muenchen) - Verified OpenAPI specification for the undocumented SAP SuccessFactors search API behind the Landeshauptstadt München careers portal, listing every open position at the city administration, with a dependency-free Python client and a property-based validation report documenting the endpoint's error codes, pagination limits, and crash conditions.
-- 🔌 [InfraNode](https://infranode.dev/staedte/muenchen/) - Keyless REST API for German city open data. The Munich page documents all 82 city data types reachable under the `muenchen` slug — weather and air quality, real-time transit departures, parking occupancy, charging points, crime and accident statistics, demographics, land values, and public tenders among them — each returned as JSON in one response envelope that names the source and licence of the record, answering `no_data` where a source has nothing for Munich rather than erroring. Part of a 117-endpoint catalogue spanning 84 German cities; also available as an [MCP server](https://infranode.dev/mcp/); source code Apache-2.0.
-- 📈 [Munich in Numbers](https://www.munich-in-numbers.com/) - German-language dashboard that turns official Munich statistics into readable charts: 116 datasets on population, safety, mobility, economy and tourism, and weather, plus an indicator atlas of district-level figures, a trend radar, and short data stories. Every dataset links back to its source.
+- 🗂️ [Open Data Portal München](https://opendata.muenchen.de/en/) - Official city portal with 331 datasets across transport, government, education, and other categories.
+- 🌱 [datengartln München](https://datengartln.de/) - Community-built explorer for 266 Munich open datasets with notebook-based data stories and curated category pages.
+- 🚀 [startercode-opendata-munich](https://github.com/it-at-m/startercode-opendata-munich) - Auto-generated Python and R starter notebooks for every Munich open data portal dataset, prefilled with metadata and download links.
+- 💼 [jobportal-muenchen](https://github.com/tifa365/jobportal-muenchen) - Verified OpenAPI specification and Python client for the undocumented SAP SuccessFactors search API behind the city's job portal, listing every open position.
+- 🔌 [InfraNode](https://infranode.dev/staedte/muenchen/) - Keyless REST API, also available as an [MCP server](https://infranode.dev/mcp/), returning 82 Munich data types as JSON, from weather and transit departures to parking, crime statistics, and land values.
+- 📈 [Munich in Numbers](https://www.munich-in-numbers.com/) - German-language dashboard turning 116 official Munich statistics datasets into charts, with a district-level indicator atlas and short data stories.
 
 ------------------------------
 
 ## Transportation & Mobility
 
-- 🚲 [Munich Bike Data Info Graphic](https://somtom.github.io/post/munich-bike-data-info-graphic/) - Long-form analysis and infographic of Munich bicycle counting-station data, combining open data API access, station maps, traffic patterns, and commuting insights.
-- 🚇 [MVV OpenData](https://www.mvv-muenchen.de/fahrplanauskunft/fuer-entwickler/opendata/index.html) - Official developer page with Munich transit GTFS feeds and CSV downloads for stops, lines, and tariff zones under CC BY licensing.
-- 🅿️ [data.parkraumwende.de](https://data.parkraumwende.de) - Data section of the "[Parkraumwende](https://parkraumwende.de)" (parking space transition) initiative. It consists of several sub-sections: an open map of all parking garages, underground car parks, and parking spaces in Munich, which is continuously expanded through crowdsourcing. A map of parking garages in the city center and their current occupancy. And an overview of public parking areas along with a section on mobility statistics from Munich.
-- 🚆 [verspaetung.net – München Hbf](https://verspaetung.net/bahnhoefe/8000261-muenchen-hbf) - Station page for München Hbf on an unofficial tracker (since February 2026) that shows arrivals and departures in the next 60 minutes with delays over 5 minutes and cancellations, and archives 15-minute snapshots of roughly 280 German stations behind a [documented open-data API](https://data.verspaetung.net/opendata/swagger/).
+- 🚲 [Munich Bike Data Info Graphic](https://somtom.github.io/post/munich-bike-data-info-graphic/) - Long-form analysis and infographic of Munich bicycle counting-station data covering station maps, traffic patterns, and commuting insights.
+- 🚇 [MVV OpenData](https://www.mvv-muenchen.de/fahrplanauskunft/fuer-entwickler/opendata/index.html) - Official MVV developer page with GTFS feeds and CSV downloads for stops, lines, and tariff zones under CC BY.
+- 🅿️ [mvv-park-and-ride-api](https://github.com/tifa365/mvv-park-and-ride-api) - OpenAPI specification for the MVV Park-and-Ride endpoint listing all 363 facilities with location, static capacity, and tariff, but no live occupancy.
+- 🅿️ [data.parkraumwende.de](https://data.parkraumwende.de) - Data section of the [Parkraumwende](https://parkraumwende.de) initiative with a crowdsourced map of Munich parking garages and spaces, live city-centre garage occupancy, and mobility statistics.
+- 🚆 [verspaetung.net – München Hbf](https://verspaetung.net/bahnhoefe/8000261-muenchen-hbf) - Unofficial live board of München Hbf delays and cancellations for the next 60 minutes, backed by a [documented open-data API](https://data.verspaetung.net/opendata/swagger/) with 15-minute snapshots since February 2026.
 
 ------------------------------
 
 ## Urban Planning & Land Use
 
-- 🏛️ [denkmalliste-bayern](https://github.com/tifa365/denkmalliste-bayern) - Extractor for the official Bavarian monument list covering roughly 198,000 listed buildings, archaeological monuments, and ensembles statewide including Munich, with a verified OpenAPI specification for the otherwise undocumented BLfD Denkmalservice and export to GeoJSON, CSV, and JSONL.
+- 🏛️ [denkmalliste-bayern](https://github.com/tifa365/denkmalliste-bayern) - Extractor and verified OpenAPI specification for the undocumented BLfD Denkmalservice, exporting roughly 198,000 Bavarian listed monuments to GeoJSON, CSV, and JSONL.
 
 ------------------------------
 
