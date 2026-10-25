@@ -72,6 +72,7 @@ Resources to be added.
 - 💼 [jobportal-muenchen](https://github.com/tifa365/jobportal-muenchen) - Verified OpenAPI specification and Python client for the undocumented SAP SuccessFactors search API behind the city's job portal, listing every open position.
 - 🔌 [InfraNode](https://infranode.dev/staedte/muenchen/) - Keyless REST API, also available as an [MCP server](https://infranode.dev/mcp/), returning 82 Munich data types as JSON, from weather and transit departures to parking, crime statistics, and land values.
 - 📈 [Munich in Numbers](https://www.munich-in-numbers.com/) - German-language dashboard turning 116 official Munich statistics datasets into charts, with a district-level indicator atlas and short data stories.
+- 📊 [Datenraum München](https://tifa365.github.io/datenraum-muenchen/) - Unofficial prototype of a Munich urban data hub modeled after Augsburg's [Datenraum](https://smartes.augsburg.de) on the AGPL-3.0 CIVORA UI, with partly frozen data; [source repository](https://github.com/tifa365/datenraum-muenchen).
 
 ------------------------------
 
